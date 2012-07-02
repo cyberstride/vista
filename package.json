@@ -1,0 +1,15 @@
+{
+  "name": "vista",
+  "description": "A template platform for constructing views with javascript on the server much like you would on the client.",
+  "version": "0.0.1",
+  "author": "Chance Dinkins <chance@cyberstride.net>",
+  "keywords": ["template", "engine", "vista"],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "dependencies": {
+    "jpm"
+  },
+  "main": "./lib/vista.js",
+  "repository": "git://github.com/chanced/vista.git"
+}
